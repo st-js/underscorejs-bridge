@@ -21,13 +21,13 @@
 		<dependency>
 			<groupId>org.st-js.bridge</groupId>
 			<artifactId>html</artifactId>
-			<version>4.01.0</version>
+			<version>5.0.bv0</version>
 		</dependency>
 	</dependencies>
 
 	<scm>
-		<connection>scm:git:http://github.com/st-js/underscorejs-bridge.git</connection>
-		<developerConnection>scm:git:http://github.com/st-js/underscorejs-bridge.git</developerConnection>
+		<connection>scm:git:https://github.com/st-js/underscorejs-bridge.git</connection>
+		<developerConnection>scm:git:https://github.com/st-js/underscorejs-bridge.git</developerConnection>
 		<url>scm:git:https://github.com/st-js/underscorejs-bridge</url>
 	  <tag>HEAD</tag>
   	</scm>
